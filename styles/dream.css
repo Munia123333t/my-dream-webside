@@ -1,0 +1,19 @@
+@@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+* font-family: "Azeret Mono", monospace;
+
+
+.azeret-mono {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+#section {
+    height: 652px;
+    background-image: url('images/assets/Hero-bg.png');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    background-repeat: no-repeat;
+}
